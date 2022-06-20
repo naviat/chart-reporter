@@ -24,7 +24,7 @@ jobs:
           name: Release
           command: |
             VERSION="latest"
-            go get github.com/tcnksm/ghr
+            go install github.com/tcnksm/ghr@latest
             ghr -t ${GITHUB_TOKEN} \
                 -u ${CIRCLE_PROJECT_USERNAME} \
                 -r ${CIRCLE_PROJECT_REPONAME} \
