@@ -2,7 +2,7 @@
 
 SHELL_DIR=$(dirname $0)
 
-DEFAULT="naviat/charts-reporter"
+DEFAULT="naviat/chart-reporter"
 REPOSITORY=${GITHUB_REPOSITORY:-$DEFAULT}
 
 USERNAME=${GITHUB_ACTOR}
