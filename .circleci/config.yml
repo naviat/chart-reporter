@@ -16,7 +16,7 @@ jobs:
             - target/*
   release:
     docker:
-      - image: circleci/golang
+      - image: cimg/golang
     steps:
       - attach_workspace:
           at: works
