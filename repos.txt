@@ -28,3 +28,4 @@ kubecost https://kubecost.github.io/cost-analyzer
 opspresso https://opspresso.github.io/helm-charts
 prometheus https://prometheus-community.github.io/helm-charts
 stable https://charts.helm.sh/stable
+cilium https://helm.cilium.io
