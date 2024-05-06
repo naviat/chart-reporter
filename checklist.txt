@@ -25,3 +25,4 @@ opspresso/app https://github.com/opspresso/helm-charts/blob/master/charts/app/Ch
 prometheus/kube-prometheus-stack https://github.com/prometheus-community/helm-charts/blob/main/charts/kube-prometheus-stack/Chart.yaml
 prometheus/prometheus-adapter https://github.com/prometheus-community/helm-charts/blob/main/charts/prometheus-adapter/Chart.yaml
 kiali/kiali-server https://github.com/kiali/helm-charts/blob/master/kiali-server/Chart.yaml
+cilium/cilium https://github.com/cilium/cilium/blob/main/install/kubernetes/cilium/Chart.yaml
